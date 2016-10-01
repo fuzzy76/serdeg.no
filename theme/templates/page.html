@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}{{ SITENAME }} - {{ page.title|striptags }}{%endblock%}
+{% block bodyclasses %}{{ page.slug }}{%endblock%}
+{% block content %}
+<div class="row">
+<div class="col-sm-8 offset-sm-2">
+  {% if page.image %}
+  <img src="{{ page.image }}" alt="{{ page.title }} illustrasjonsbilde" class="img-fluid" />
+  {% endif %}
+  <h1>{{ page.title }}</h1>
+  {% import 'translations.html' as translations with context %}
+  {{ translations.translations_for(page) }}
+
+  {{ page.content }}
+<div class="shariff" data-lang="no" data-services="[&quot;facebook&quot;,&quot;twitter&quot;,&quot;mail&quot;]"></div>
+</div>
+</div>
+
+{% endblock %}

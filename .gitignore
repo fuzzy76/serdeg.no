@@ -1,0 +1,9 @@
+public/
+*.pyc
+__pycache__
+bin
+include
+lib
+.Python
+pip-selfcheck.json
+output

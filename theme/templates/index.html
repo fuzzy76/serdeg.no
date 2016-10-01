@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block bodyclasses %}index{%endblock%}
+{% block content %}
+<section id="content">
+{% block content_title %}
+<h1>Nyheter</h1>
+{% endblock %}
+<hr />
+<dl id="post-list">
+  {% for article in articles_page.object_list %}
+    <dt>
+      <h2>
+        <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+        <small class="text-muted"><time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></small>
+      </h2>
+    </dt>
+    <dd>
+      <div class="entry-content">
+        {{ article.summary }}
+        <a class="btn btn-outline-primary btn-sm" href="{{ SITEURL }}/{{ article.url }}" role="button">Les mer</a>
+      </div>
+      <hr />
+    </dd>
+  {% endfor %}
+</dl><!-- /#posts-list -->
+{% if articles_page.has_other_pages() %}
+    {% include 'pagination.html' %}
+{% endif %}
+</section><!-- /#content -->
+{% endblock content %}
