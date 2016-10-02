@@ -9,7 +9,7 @@
 
 # Tanker / Mål / Visjon
 
-en nettside som skal lære folk flest å beskytte seg om personverninngripen på nett i form av overvåkning, brukersporing og sensur. :)
+> Denne siden er ment å informere folk flest om trusler mot borgerrettigheter og personvern på nett. Dette inkluderer alt fra statlige inngrep og overivrige bedrifter til ondsinnede hackere. Den forsøker forklare på en lettfattelig, enkel og minst mulig teknologi-tung måte hvilke trusler som finnes og hvordan man kan beskytte seg mot dem.
 
 Under utviklingen av nettstedet var den uttalte målgruppen "Tante Ågot, ikke hennes datakyndige sønn". Dette betyr at artiklene bør være så frie for tekniske uttrykk som mulig, og detaljer nødvendigvis må utelates slik at trusler, tiltak og installasjon er rett frem for et ikke-teknisk publikum.
 
