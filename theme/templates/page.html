@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}{{ SITENAME }} - {{ page.title|striptags }}{%endblock%}
-{% block bodyclasses %}{{ page.slug }}{%endblock%}
+{% block bodyclasses %}page {{ page.slug }}{%endblock%}
 {% block content %}
 <div class="row">
 <div class="col-sm-8 offset-sm-2">
