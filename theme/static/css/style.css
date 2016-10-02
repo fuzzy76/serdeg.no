@@ -41,3 +41,15 @@ body.sporsmal dd {
   margin-bottom: 1em;
   padding-left: 1em;
 }
+
+/*
+ *
+ */
+
+a, a:link, a:visited, a:hover, a:active {
+  color: #38aebb;
+}
+
+p a, p a:link, p a:visited, p a:hover, p a:active {
+  text-decoration: underline;
+}

@@ -6,27 +6,33 @@ Template: page_raw
 <div class="card-deck-wrapper">
 <div class="card-deck">
     <div class="card">
-      <img class="card-img-top img-fluid" src="{filename}/images/avlytting.jpg" alt="Card image cap">
+      <a href="{filename}/pages/trusler/trafikkavlytting.md">
+        <img class="card-img-top img-fluid" src="{filename}/images/avlytting.jpg" alt="Card image cap">
+      </a>
       <div class="card-block">
         <h4 class="card-title">Avlytting</h4>
         <p class="card-text">Hackere, norske myndigheter, andre lands myndigheter og din internettleverandør kan se både sidene du besøker og din kommunikasjon på nett.</p>
-        <a href="{filename}/pages/trusler/trafikkavlytting.md" class="btn btn-primary">Hjelp meg</a>
+        <a href="{filename}/pages/trusler/trafikkavlytting.md" class="btn btn-secondary">Hjelp meg</a>
       </div>
     </div>
     <div class="card">
-      <img class="card-img-top img-fluid" src="{filename}/images/brukersporing.jpg" alt="Card image cap">
+      <a href="{filename}/pages/trusler/brukersporing.md">
+        <img class="card-img-top img-fluid" src="{filename}/images/brukersporing.jpg" alt="Card image cap">
+      </a>
       <div class="card-block">
         <h4 class="card-title">Brukersporing</h4>
         <p class="card-text">Tjenester som søkemotorer, sosiale medier og annonsenettverk kan spore deg og kartlegge din aktivitet på nett.</p>
-        <a href="{filename}/pages/trusler/brukersporing.md" class="btn btn-primary">Hjelp meg</a>
+        <a href="{filename}/pages/trusler/brukersporing.md" class="btn btn-secondary">Hjelp meg</a>
       </div>
     </div>
     <div class="card">
-      <img class="card-img-top img-fluid" src="{filename}/images/blokkering.jpg" alt="Card image cap">
+      <a href="{filename}/pages/trusler/blokkering-av-nettsteder.md">
+        <img class="card-img-top img-fluid" src="{filename}/images/blokkering.jpg" alt="Card image cap">
+      </a>
       <div class="card-block">
         <h4 class="card-title">Blokkering av nettsteder</h4>
         <p class="card-text">Myndigheter og internettleverandører kan, uten rettslig kjennelse, hindre deg i å finne innhold på internett.</p>
-        <a href="{filename}/pages/trusler/blokkering-av-nettsteder.md" class="btn btn-primary">Hjelp meg</a>
+        <a href="{filename}/pages/trusler/blokkering-av-nettsteder.md" class="btn btn-secondary">Hjelp meg</a>
       </div>
     </div>
 </div>
