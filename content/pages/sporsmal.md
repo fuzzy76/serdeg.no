@@ -46,9 +46,19 @@ Hvem står bak denne siden?
   SSL-sertifikater er sponset av [Host1 AS](http://host1.no/) og logo er
   sponset av [Enjoy Design AS](http://enjoydesign.no).
 
+Hvilken lisens har dere på nettstedet?
+: Creative Commons<a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>. Kort fortalt kan du bruke
+  innholdet fritt så lenge du krediterer nettstedet "SerDeg.no".
+
 Du har glemt å nevne X, du må skrive mer om X
 : For all del, tips meg gjerne via kanalene nevnt ovenfor. Men sjansen er
   også stor for at jeg har utelatt det med vilje. Jeg har kuttet
   informasjonsmengden med hard hånd fordi målet er å ikke overvelde folk
   med for mye. Siden er altså ikke ment å være et komplett oppslagsverk.
   :)
+
+Hvilke teknologier benytter siden?
+: * [Pelican](http://blog.getpelican.com) er en static site generator i Python som produserer nettstedet fra Markdown-filer.
+  * [Bootstrap 4](http://getbootstrap.com) er et CSS-rammeverk som danner grunnmuren for designet.
+  * [Shariff](https://github.com/heiseonline/shariff) er delingsknapper for sosiale medier som forhindrer sporing.
+  * [Font Awesome](http://fontawesome.io) for grafiske symboler
