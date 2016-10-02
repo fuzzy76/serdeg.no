@@ -19,9 +19,7 @@
 <section id="content" class="body">
   <header>
     <h2 class="entry-title">
-      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
-        {{ article.title }}
-      </a>
+      {{ article.title }}
       <small class="text-muted">
         <time class="published" datetime="{{ article.date.isoformat() }}">
           {{ article.locale_date }}
