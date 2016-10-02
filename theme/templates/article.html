@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}{{ SITENAME }} - {{ article.title|striptags }}{%endblock%}
+{% block bodyclasses %}article {{ article.slug }}{%endblock%}
+{% block head %}
+  {{ super() }}
+  {% if article.description %}
+    <meta name="description" content="{{article.description}}" />
+  {% endif %}
+
+  {% for tag in article.tags %}
+    <meta name="tags" content="{{tag}}" />
+  {% endfor %}
+
+{% endblock %}
+
+{% block content %}
+<div class="row">
+<div class="col-sm-8 offset-sm-2">
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+        {{ article.title }}
+      </a>
+      <small class="text-muted">
+        <time class="published" datetime="{{ article.date.isoformat() }}">
+          {{ article.locale_date }}
+        </time>
+      </small>
+    </h2>
+ {% import 'translations.html' as translations with context %}
+ {{ translations.translations_for(article) }}
+  </header>
+  <footer class="post-info">
+ </footer><!-- /.post-info -->
+  <div class="entry-content">
+    {{ article.content }}
+  </div><!-- /.entry-content -->
+</section>
+<div class="shariff" data-lang="no" data-services="[&quot;facebook&quot;,&quot;twitter&quot;,&quot;mail&quot;]"></div>
+</div>
+</div>
+{% endblock %}
