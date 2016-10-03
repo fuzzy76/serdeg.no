@@ -57,3 +57,10 @@ p a, p a:link, p a:visited, p a:hover, p a:active {
 div.content a, div.content a:link, div.content a:visited, div.content a:hover, div.content a:active {
   text-decoration: underline;
 }
+
+nav.navbar .navbar-nav {
+  position: absolute;
+  bottom: 0;
+  right: 1em;
+
+}
