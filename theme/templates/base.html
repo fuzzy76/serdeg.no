@@ -37,7 +37,7 @@
   {% endblock head %}
 </head>
 <body id="index" class="home {% block bodyclasses %}{% endblock bodyclasses %}">
-  <header class="container">
+  <header class="container m-b-1">
     <nav class="navbar navbar-light bg-faded">
       <a class="navbar-brand" href="{{ SITEURL }}/">
         <!-- {{ SITENAME }} <strong>{{ SITESUBTITLE }}</strong> -->
@@ -57,7 +57,7 @@
       </ul>
     </nav><!-- /#menu -->
   </header><!-- /#banner -->
-  <div class="container content m-t-1">
+  <div class="container content">
     {% block content %}
     {% endblock %}
   </div>
