@@ -3,8 +3,8 @@ save_as: index.html
 Template: page_raw
 
 <div class="row">
-    <div class="col-xs-12 display-4 text-xs-center">
-        Hvordan unngå...
+    <div class="col-xs-12 h1 text-xs-center">
+        Hvordan unngå:
     </div>
     <div class="card-deck-wrapper" style="margin-left: 0; margin-right: 0;">
         <div class="card-deck">
@@ -14,7 +14,7 @@ Template: page_raw
               </a>
               <div class="card-block">
                 <h4 class="card-title">Avlytting</h4>
-                <p class="card-text">Hackere, norske myndigheter, andre lands myndigheter og din internettleverandør kan se både sidene du besøker og din kommunikasjon på nett.</p>
+                <p class="card-text">Hackere, norske myndigheter, andre lands myndigheter og din internettleverandør kan se både sidene du besøker og din kommunikasjon online.</p>
                 <a href="{filename}/pages/trusler/trafikkavlytting.md" class="btn btn-secondary">Hjelp meg</a>
               </div>
             </div>
@@ -24,7 +24,7 @@ Template: page_raw
               </a>
               <div class="card-block">
                 <h4 class="card-title">Brukersporing</h4>
-                <p class="card-text">Tjenester som søkemotorer, sosiale medier og annonsenettverk kan spore deg og kartlegge din aktivitet på nett.</p>
+                <p class="card-text">Tjenester som søkemotorer, sosiale medier og annonsenettverk kan spore deg og kartlegge din aktivitet på internett.</p>
                 <a href="{filename}/pages/trusler/brukersporing.md" class="btn btn-secondary">Hjelp meg</a>
               </div>
             </div>
@@ -34,7 +34,7 @@ Template: page_raw
               </a>
               <div class="card-block">
                 <h4 class="card-title">Blokkering av nettsteder</h4>
-                <p class="card-text">Myndigheter og internettleverandører kan, uten rettslig kjennelse, hindre deg i å finne innhold på internett.</p>
+                <p class="card-text">Myndigheter og internettleverandører kan hindre deg i å finne innhold på nett, helt uten rettslig kjennelse.</p>
                 <a href="{filename}/pages/trusler/blokkering-av-nettsteder.md" class="btn btn-secondary">Hjelp meg</a>
               </div>
             </div>
