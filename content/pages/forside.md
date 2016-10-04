@@ -6,7 +6,7 @@ Template: page_raw
     <div class="col-xs-12 h1 text-xs-center">
         Hvordan unngå:
     </div>
-    <div class="card-deck-wrapper" style="margin-left: 0; margin-right: 0;">
+    <div class="card-deck-wrapper">
         <div class="card-deck">
             <div class="card">
               <a href="{filename}/pages/trusler/trafikkavlytting.md">

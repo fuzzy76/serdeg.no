@@ -43,9 +43,8 @@ body.sporsmal dd {
 }
 
 /*
- *
+ * Link styling
  */
-
 a, a:link, a:visited, a:hover, a:active {
   color: #38aebb;
 }
@@ -58,11 +57,33 @@ div.content a, div.content a:link, div.content a:visited, div.content a:hover, d
   text-decoration: underline;
 }
 
-
-.card-deck .card {
+/*
+ * Move card-deck action buttons to bottom of cards
+ */
+body.forside .card-deck .card {
   padding-bottom: 2em;
 }
-.card-deck .card a.btn {
+body.forside .card-deck .card a.btn {
   position: absolute;
   bottom: 1em;
 }
+
+/*
+ * Remove negative margins on card-deck to have it same width as the rest of the elements on the page
+ */
+div.card-deck {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/*
+ * Vertically center nav inside navbar
+ */
+header nav.navbar {
+  display: flex; align-items: center;
+}
+
+header nav.navbar ul.navbar-nav {
+  margin-left: auto;
+}
+

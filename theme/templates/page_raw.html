@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}{{ SITENAME }} - {{ page.title|striptags }}{%endblock%}
-{% block bodyclasses %}page forside {{ page.slug }}{%endblock%}
+{% block bodyclasses %}page page_raw {{ page.slug }}{%endblock%}
 {% block content %}
     {% import 'translations.html' as translations with context %}
     {{ translations.translations_for(page) }}
