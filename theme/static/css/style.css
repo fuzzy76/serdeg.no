@@ -58,7 +58,7 @@ div.content a, div.content a:link, div.content a:visited, div.content a:hover, d
   text-decoration: underline;
 }
 
-nav.navbar .navbar-nav {
+qnav.navbar .qnavbar-nav {
   position: absolute;
   bottom: 0;
   right: 1em;
