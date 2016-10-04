@@ -16,8 +16,8 @@ Jeg har ingenting å skjule
 Hvor kan jeg spørre om hjelp til å utføre tiltakene?
 : Vi har dessverre ikke noen support-tjeneste eller diskusjonsforum (enda ihvertfall). Den enkleste måten er nok å
   spørre på [Facebook](https://www.facebook.com/serdeg.no) eller
-  [Twitter](https://twitter.com/intent/tweet?button_hashtag=SerDeg.no) hvor du kan bruke hashtaggen
-  [\#SerDeg.no](https://twitter.com/search?q=%23serdeg.no). Men på generelt grunnlag har vi nok ikke kapasitet til
+  [Twitter](https://twitter.com/intent/tweet?button_hashtag=SerDeg.no) hvor du kan tagge brukeren
+  [\@SerDeg](https://twitter.com/serdeg). Men på generelt grunnlag har vi nok ikke kapasitet til
   å "håndholde" enkeltbrukere. Forslag til forbedring av artiklene mottas derimot med takk!
 
 Hvor kan jeg sende forslag og tilbakemeldinger?
@@ -25,7 +25,7 @@ Hvor kan jeg sende forslag og tilbakemeldinger?
   [IRC-kanal \#serdeg.no på Freenode](http://webchat.freenode.net/?channels=%23serdeg.no)
   (lenken åpner webchat, men ikke forvent rask respons),
   [Facebook](https://www.facebook.com/serdeg.no) eller
-  [Twitter](https://twitter.com/serdeg%22).
+  [Twitter](https://twitter.com/serdeg).
 
 Dette er en god sak, jeg vil hjelpe!
 : Vil du bidra med arbeid, tar vi gladelig i mot både hjelp i [issue-køa](https://github.com/fuzzy76/serdeg.no/issues)
