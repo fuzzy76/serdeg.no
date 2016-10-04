@@ -58,8 +58,11 @@ div.content a, div.content a:link, div.content a:visited, div.content a:hover, d
   text-decoration: underline;
 }
 
-qnav.navbar .qnavbar-nav {
+
+.card-deck .card {
+  padding-bottom: 2em;
+}
+.card-deck .card a.btn {
   position: absolute;
-  bottom: 0;
-  right: 1em;
+  bottom: 1em;
 }
