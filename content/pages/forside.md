@@ -15,7 +15,7 @@ Template: page_raw
               <div class="card-block">
                 <h4 class="card-title">Avlytting</h4>
                 <p class="card-text">Hackere, norske myndigheter, andre lands myndigheter og din internettleverandør kan se både sidene du besøker og din kommunikasjon online.</p>
-                <a href="{filename}/pages/trusler/trafikkavlytting.md" class="btn btn-secondary">Hjelp meg</a>
+                <a href="{filename}/pages/trusler/trafikkavlytting.md" class="btn btn-primary">Hjelp meg</a>
               </div>
             </div>
             <div class="card">
@@ -25,7 +25,7 @@ Template: page_raw
               <div class="card-block">
                 <h4 class="card-title">Brukersporing</h4>
                 <p class="card-text">Tjenester som søkemotorer, sosiale medier og annonsenettverk kan spore deg og kartlegge din aktivitet på internett.</p>
-                <a href="{filename}/pages/trusler/brukersporing.md" class="btn btn-secondary">Hjelp meg</a>
+                <a href="{filename}/pages/trusler/brukersporing.md" class="btn btn-primary">Hjelp meg</a>
               </div>
             </div>
             <div class="card">
@@ -35,7 +35,7 @@ Template: page_raw
               <div class="card-block">
                 <h4 class="card-title">Blokkering av nettsteder</h4>
                 <p class="card-text">Myndigheter og internettleverandører kan hindre deg i å finne innhold på nett, helt uten rettslig kjennelse.</p>
-                <a href="{filename}/pages/trusler/blokkering-av-nettsteder.md" class="btn btn-secondary">Hjelp meg</a>
+                <a href="{filename}/pages/trusler/blokkering-av-nettsteder.md" class="btn btn-primary">Hjelp meg</a>
               </div>
             </div>
         </div>

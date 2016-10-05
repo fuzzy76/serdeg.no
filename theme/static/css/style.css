@@ -58,7 +58,7 @@ div.content a, div.content a:link, div.content a:visited, div.content a:hover, d
 }
 
 /*
- * Move card-deck action buttons to bottom of cards
+ * Style card-deck action buttons
  */
 body.forside .card-deck .card {
   padding-bottom: 2em;
@@ -66,6 +66,18 @@ body.forside .card-deck .card {
 body.forside .card-deck .card a.btn {
   position: absolute;
   bottom: 1em;
+}
+
+body.forside .card-deck .card a.btn {
+  background-color: #38aebb;
+  border-color: #38aebb;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+body.forside .card-deck .card a.btn:hover {
+  color: #333;
 }
 
 /*
