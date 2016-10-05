@@ -43,10 +43,6 @@ Template: page_raw
 </div>
 <div class="row">
     <div class="col-md-6">
-        <h2>Bakgrunn</h2>
-        <p>Denne siden er ment å informere folk flest om trusler mot borgerrettigheter og personvern på nett. Dette inkluderer alt fra statlige inngrep og overivrige bedrifter til ondsinnede hackere. Den forsøker forklare på en lettfattelig, enkel og minst mulig teknologi-tung måte hvilke trusler som finnes og hvordan man kan beskytte seg mot&nbsp;dem.</p>
-    </div>
-    <div class="col-md-6">
         <h2>Anbefalinger</h2>
         <p>Har du ikke tid eller orker ikke lese gjennom alle artiklene? Her er våre anbefalinger kort oppsummert og i prioritert&nbsp;rekkefølge:</p>
         <ol>
@@ -56,6 +52,10 @@ Template: page_raw
         <li><a href="http://serdeg.no/tiltak/tjenester-som-ikke-sporer-deg/">Bruk tjenester som ikke sporer deg, der det finnes&nbsp;alternativer</a></li>
         <li><a href="http://serdeg.no/tiltak/dns/">Ikke bruk <span class="caps">DNS</span>-server fra en norsk&nbsp;internett-leverandør</a></li>
         </ol>
+    </div>
+    <div class="col-md-6">
+        <h2>Bakgrunn</h2>
+        <p>Denne siden er ment å informere folk flest om trusler mot borgerrettigheter og personvern på nett. Dette inkluderer alt fra statlige inngrep og overivrige bedrifter til ondsinnede hackere. Den forsøker forklare på en lettfattelig, enkel og minst mulig teknologi-tung måte hvilke trusler som finnes og hvordan man kan beskytte seg mot&nbsp;dem.</p>
     </div>
     <hr />
     <div class="col-xs-6 offset-xs-3">
