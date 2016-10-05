@@ -49,12 +49,16 @@ a, a:link, a:visited, a:hover, a:active {
   color: #38aebb;
 }
 
-p a, p a:link, p a:visited, p a:hover, p a:active {
+p a, p a:link, p a:visited, p a:active {
   text-decoration: underline;
 }
 
-div.content a, div.content a:link, div.content a:visited, div.content a:hover, div.content a:active {
+div.content a, div.content a:link, div.content a:visited, div.content a:active {
   text-decoration: underline;
+}
+
+p a:hover, div.content a:hover {
+  text-decoration: none;
 }
 
 /*
@@ -108,4 +112,11 @@ nav.navbar .navbar-nav a:visited,
 nav.navbar .navbar-nav a:hover,
 nav.navbar .navbar-nav a:active {
   color: #333;
+}
+
+/*
+ * General styling
+ */
+body {
+  line-height: 1.7;
 }
