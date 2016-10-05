@@ -13,8 +13,6 @@
 
 Under utviklingen av nettstedet var den uttalte målgruppen "Tante Ågot, ikke hennes datakyndige sønn". Dette betyr at artiklene bør være så frie for tekniske uttrykk som mulig, og detaljer nødvendigvis må utelates slik at trusler, tiltak og installasjon er rett frem for et ikke-teknisk publikum.
 
-Men mye av de tekniske momentene du kommer med, er jeg redd for ødelegge helt for sida. Denne skal egentlig dummes enda mer ned. Den er mer for tante Ågot, ikke for hennes datakyndige sønn. Da er jeg redd nyanser er nødt til å utelates (men at TOR-endpoint kan lese trafikk i klartekst er helt klart et viktig poeng).
-
 # Bidrag
 Alle bidrag mottas med tak, enten det er i form av høyttenking i issue-køa, nytt innhold, forbedring av eksisterende innhold, forbedring av designmaler, språkvask, markedsføring etc. Hvis du vil skrive nytt innhold, vennligst åpne en issue om temaet først. For å holde nettstedet så enkelt som mulig er det ønskelig å ha færrest mulig artikler.
 
