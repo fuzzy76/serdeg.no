@@ -87,3 +87,13 @@ nav.navbar ul.navbar-nav {
   margin-left: auto;
 }
 
+/*
+ * Navbar styling
+ */
+nav.navbar .navbar-nav a,
+nav.navbar .navbar-nav a:link,
+nav.navbar .navbar-nav a:visited,
+nav.navbar .navbar-nav a:hover,
+nav.navbar .navbar-nav a:active {
+  color: #333;
+}
