@@ -1,6 +1,13 @@
 {% extends "base.html" %}
-{% block title %}{{ SITENAME }} - {{ page.title|striptags }}{%endblock%}
-{% block bodyclasses %}page page_raw {{ page.slug }}{%endblock%}
+{% block title %}{{ SITENAME }} - {{ page.title|striptags }}{% endblock %}
+{% block bodyclasses %}page page_raw {{ page.slug }}{% endblock %}
+{% block metadesc %}
+  {% if page.summary %}
+    <meta name="description" content="{{page.summary|striptags}}" />
+  {% else %}
+    <meta name="description" content="{{page.title|striptags}}" />
+  {% endif %}
+{% endblock %}
 {% block content %}
     {% import 'translations.html' as translations with context %}
     {{ translations.translations_for(page) }}

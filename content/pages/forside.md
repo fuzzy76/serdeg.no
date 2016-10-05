@@ -1,4 +1,6 @@
-Title: Forside
+Title: Informasjon om borgerrettigheter og personvern på nett
+Summary: En side ment å informere folk flest om trusler mot borgerrettigheter og personvern på nett!
+Slug: forside
 save_as: index.html
 Template: page_raw
 
