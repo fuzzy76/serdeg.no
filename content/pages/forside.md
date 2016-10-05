@@ -55,8 +55,6 @@ Template: page_raw
     <li><a href="http://serdeg.no/tiltak/dns/">Ikke bruk <span class="caps">DNS</span>-server fra en norsk&nbsp;internett-leverandør</a></li>
     </ol>
     <hr />
-    <p>Følg oss gjerne
-    på <a href="https://www.facebook.com/serdeg.no">Facebook</a> og <a href="https://twitter.com/serdeg">Twitter</a>!</p>
-    <p>Del SerDeg.no: <div class="shariff" data-lang="no" data-services="[&quot;facebook&quot;,&quot;twitter&quot;,&quot;mail&quot;]"></div></p>
+    <p>Tips andre om SerDeg.no: <div class="shariff" data-lang="no" data-services="[&quot;facebook&quot;,&quot;twitter&quot;,&quot;mail&quot;]"></div></p>
     </div>
 </div>
