@@ -42,19 +42,23 @@ Template: page_raw
     </div>
 </div>
 <div class="row">
-    <div class="col-sm-8 offset-sm-2">
-    <h2>Bakgrunn</h2>
-    <p>Denne siden er ment å informere folk flest om trusler mot borgerrettigheter og personvern på nett. Dette inkluderer alt fra statlige inngrep og overivrige bedrifter til ondsinnede hackere. Den forsøker forklare på en lettfattelig, enkel og minst mulig teknologi-tung måte hvilke trusler som finnes og hvordan man kan beskytte seg mot&nbsp;dem.</p>
-    <h2>Anbefalinger</h2>
-    <p>Har du ikke tid eller orker ikke lese gjennom alle artiklene? Her er våre anbefalinger kort oppsummert og i prioritert&nbsp;rekkefølge:</p>
-    <ol>
-    <li><a href="http://serdeg.no/tiltak/informasjonskapselinnstillinger/">Blokker tredjeparts informasjonskapsler i nettleseren&nbsp;din</a></li>
-    <li><a href="http://serdeg.no/tiltak/https/">Alltid bruk <span class="caps">HTTPS</span> om du&nbsp;kan</a></li>
-    <li><a href="http://serdeg.no/tiltak/nettleserutvidelser/">Bruk en nettleserutvidelse som beskytter deg mot&nbsp;sporing</a></li>
-    <li><a href="http://serdeg.no/tiltak/tjenester-som-ikke-sporer-deg/">Bruk tjenester som ikke sporer deg, der det finnes&nbsp;alternativer</a></li>
-    <li><a href="http://serdeg.no/tiltak/dns/">Ikke bruk <span class="caps">DNS</span>-server fra en norsk&nbsp;internett-leverandør</a></li>
-    </ol>
+    <div class="col-md-6">
+        <h2>Bakgrunn</h2>
+        <p>Denne siden er ment å informere folk flest om trusler mot borgerrettigheter og personvern på nett. Dette inkluderer alt fra statlige inngrep og overivrige bedrifter til ondsinnede hackere. Den forsøker forklare på en lettfattelig, enkel og minst mulig teknologi-tung måte hvilke trusler som finnes og hvordan man kan beskytte seg mot&nbsp;dem.</p>
+    </div>
+    <div class="col-md-6">
+        <h2>Anbefalinger</h2>
+        <p>Har du ikke tid eller orker ikke lese gjennom alle artiklene? Her er våre anbefalinger kort oppsummert og i prioritert&nbsp;rekkefølge:</p>
+        <ol>
+        <li><a href="http://serdeg.no/tiltak/informasjonskapselinnstillinger/">Blokker tredjeparts informasjonskapsler i nettleseren&nbsp;din</a></li>
+        <li><a href="http://serdeg.no/tiltak/https/">Alltid bruk <span class="caps">HTTPS</span> om du&nbsp;kan</a></li>
+        <li><a href="http://serdeg.no/tiltak/nettleserutvidelser/">Bruk en nettleserutvidelse som beskytter deg mot&nbsp;sporing</a></li>
+        <li><a href="http://serdeg.no/tiltak/tjenester-som-ikke-sporer-deg/">Bruk tjenester som ikke sporer deg, der det finnes&nbsp;alternativer</a></li>
+        <li><a href="http://serdeg.no/tiltak/dns/">Ikke bruk <span class="caps">DNS</span>-server fra en norsk&nbsp;internett-leverandør</a></li>
+        </ol>
+    </div>
     <hr />
+    <div class="col-xs-6 offset-xs-3">
     <p>Tips andre om SerDeg.no: <div class="shariff" data-lang="no" data-services="[&quot;facebook&quot;,&quot;twitter&quot;,&quot;mail&quot;]"></div></p>
     </div>
 </div>
