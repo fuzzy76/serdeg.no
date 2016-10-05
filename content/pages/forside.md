@@ -43,7 +43,9 @@ Template: page_raw
 </div>
 <div class="row">
     <div class="col-sm-8 offset-sm-2">
+    <h2>Bakgrunn</h2>
     <p>Denne siden er ment å informere folk flest om trusler mot borgerrettigheter og personvern på nett. Dette inkluderer alt fra statlige inngrep og overivrige bedrifter til ondsinnede hackere. Den forsøker forklare på en lettfattelig, enkel og minst mulig teknologi-tung måte hvilke trusler som finnes og hvordan man kan beskytte seg mot&nbsp;dem.</p>
+    <h2>Anbefalinger</h2>
     <p>Har du ikke tid eller orker ikke lese gjennom alle artiklene? Her er våre anbefalinger kort oppsummert og i prioritert&nbsp;rekkefølge:</p>
     <ol>
     <li><a href="http://serdeg.no/tiltak/informasjonskapselinnstillinger/">Blokker tredjeparts informasjonskapsler i nettleseren&nbsp;din</a></li>
@@ -52,6 +54,7 @@ Template: page_raw
     <li><a href="http://serdeg.no/tiltak/tjenester-som-ikke-sporer-deg/">Bruk tjenester som ikke sporer deg, der det finnes&nbsp;alternativer</a></li>
     <li><a href="http://serdeg.no/tiltak/dns/">Ikke bruk <span class="caps">DNS</span>-server fra en norsk&nbsp;internett-leverandør</a></li>
     </ol>
+    <hr />
     <p>Følg oss gjerne
     på <a href="https://www.facebook.com/serdeg.no">Facebook</a> og <a href="https://twitter.com/serdeg">Twitter</a>!</p>
     <p>Del SerDeg.no: <div class="shariff" data-lang="no" data-services="[&quot;facebook&quot;,&quot;twitter&quot;,&quot;mail&quot;]"></div></p>
