@@ -79,11 +79,11 @@ div.card-deck {
 /*
  * Vertically center nav inside navbar
  */
-header nav.navbar {
+nav.navbar div {
   display: flex; align-items: center;
 }
 
-header nav.navbar ul.navbar-nav {
+nav.navbar ul.navbar-nav {
   margin-left: auto;
 }
 
