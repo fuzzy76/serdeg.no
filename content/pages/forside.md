@@ -3,7 +3,7 @@ save_as: index.html
 Template: page_raw
 
 <div class="row">
-    <div class="col-xs-12 h1 text-xs-center">
+    <div class="col-sm-12 h1 text-xs-center">
         Hvordan unngå:
     </div>
     <div class="card-deck-wrapper">
