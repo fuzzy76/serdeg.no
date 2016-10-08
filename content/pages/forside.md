@@ -61,6 +61,6 @@ Template: page_raw
     </div>
     <hr />
     <div class="col-xs-6 offset-xs-3">
-    <p>Tips andre om SerDeg.no: <div class="shariff" data-lang="no" data-services="[&quot;facebook&quot;,&quot;twitter&quot;,&quot;mail&quot;]"></div></p>
+    <div class="shariff" data-lang="no" data-services="[&quot;facebook&quot;,&quot;twitter&quot;,&quot;mail&quot;]"></div>
     </div>
 </div>
