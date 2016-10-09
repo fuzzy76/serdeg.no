@@ -24,6 +24,11 @@ anonymt. Dette gjøres ved hjelp av noen spesielle nettadresser som
 fungerer slik at det er umulig å vite hvilken server innholdet egentlig
 ligger på.
 
+## [The Invisible Internet Project (I2P)](https://geti2p.net/en/)
+I2P har mye av samme virkemåten som TOR, og har en del tilleggsfunksjoner
+bygd inn, slik som fildeling, e-post, chat og lignende. Det er et ganske
+ambisiøst prosjekt, og kommer også med apper for smarttelefoner.
+
 [Freenet project](https://freenetproject.org)
 ---------------------------------------------
 
