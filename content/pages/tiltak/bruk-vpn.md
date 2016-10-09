@@ -15,5 +15,5 @@ Dette forhindrer riktignok ikke VPN-leverandøren selv fra å overvåke
 deg, så her gjelder det å bruke en leverandør man stoler på.
 
 Du kan finne lister over VPN-leverandører
-på [Torrentfreak](https://torrentfreak.com/anonymous-vpn-service-provider-review-2015-150228/)
-eller [Lifehacker](http://lifehacker.com/5935863/five-best-vpn-service-providers).
+på [Torrentfreak](https://torrentfreak.com/vpn-anonymous-review-160220/)
+eller [VPNMentor](https://www.vpnmentor.com).
