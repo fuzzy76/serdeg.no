@@ -6,6 +6,6 @@ nettstedene som forsøker spore deg, og blokkerer disse automatisk. Vi
 har samlet de vanligste her:
 
 -   [Ghostery](https://www.ghostery.com/en/)
--   [Disconnect](https://disconnect.me)
+-   [Disconnect](https://disconnect.me/disconnect)
 -   [Privacy badger](https://www.eff.org/privacybadger)
 -   [uBlock origin](https://github.com/gorhill/uBlock#installation)
