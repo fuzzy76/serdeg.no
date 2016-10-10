@@ -2,6 +2,7 @@ Title: Spørsmål
 Slug: sporsmal
 URL: sporsmal/
 Save_as: sporsmal/index.html
+Summary: Ofte Spurte Spørsmål
 
 Hjelper ikke disse tiltakene kriminelle?
 : Jovisst, på samme måter som gardiner også gjør det. Men vil du bo uten,

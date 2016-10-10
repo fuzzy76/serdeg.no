@@ -1,5 +1,6 @@
 Title: Informasjonskapselinnstillinger
 Slug: informasjonskapselinnstillinger
+Summary: Konfigurere trygg bruk av informasjonskapsler (cookies)
 
 Nettlesere skiller mellom to typer informasjonskapsler, de som settes av
 nettsiden du besøker og de som settes av andre sider (såkalte

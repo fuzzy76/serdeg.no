@@ -2,6 +2,7 @@ Title: Lenker
 Slug: lenker
 URL: lenker/
 Save_as: lenker/index.html
+Summary: Lenkesamling
 
 ## Foreninger
 - [Piratpartiet](https://www.piratpartiet.no/) - et norsk politisk parti med stort fokus på digitalt personvern

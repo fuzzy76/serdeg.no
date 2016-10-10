@@ -1,5 +1,6 @@
 Title: Tjenester som ikke sporer deg
 Slug: tjenester-som-ikke-sporer-deg
+Summary: Foretrekke tjenester som ikke sporer og profilerer brukerene sine.
 
 Omtrent alle sosiale medier som Facebook, Twitter og lignende sporer
 deg. Det finnes noen unntak, men de har som regel for liten brukermasse

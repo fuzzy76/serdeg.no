@@ -1,5 +1,6 @@
 Title: Nettleserutvidelser
 Slug: nettleserutvidelser
+Summary: Nettleserutvidelser som hjelper deg å ta vare på personvernet ditt.
 
 Det finnes mange nettleserutvidelser som gir deg en oversikt over alle
 nettstedene som forsøker spore deg, og blokkerer disse automatisk. Vi

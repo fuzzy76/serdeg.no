@@ -1,5 +1,6 @@
 Title: VPN hjem
 Slug: vpn-hjem
+Summary: Bruke VPN mot sitt hjemmenettverk når man er på et gjestenett.
 
 [VPN](/tiltak/bruk-vpn/) kan også brukes "motsatt vei".
 Nemlig ved å sette opp en VPN-tunnel hjem til sin egen bredbåndslinje

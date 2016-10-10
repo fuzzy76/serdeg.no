@@ -1,6 +1,7 @@
 Title: Blokkering av nettsteder
 Slug: blokkering-av-nettsteder
 Image: /images/blokkering.jpg
+Summary: Blokkering av nettsteder, utført av myndigheter eller internettleverandør
 
 I nyere tid har norske myndigheter påtatt seg å
 blokkere Internett-innhold for sine innbyggere. Dette er problematisk

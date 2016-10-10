@@ -1,6 +1,7 @@
 Title: Avlytting
 Slug: trafikkavlytting
 Image: /images/avlytting.jpg
+Summary: Avlytting av nettverkstrafikk
 
 Overvåkning av nettverkstrafikken kan utføres av mange aktører. Det kan
 være folk som er på samme åpne nettverk som deg, folk som har satt opp

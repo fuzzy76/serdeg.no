@@ -1,5 +1,6 @@
 Title: Sikker forbindelse til nettsider
 Slug: https
+Summary: Bruk HTTPS/SSL under surfing.
 
 HTTPS er et todelt sikkerhetssystem for websider som både verifiserer
 identiteten til serveren man snakker med og krypterer forbindelsen slik

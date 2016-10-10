@@ -1,5 +1,6 @@
 Title: Kryptering
 Slug: kryptering
+Summary: Bruke kommunikasjonsmetoder som tilbyr kryptering.
 
 For vanlige nettsider er [HTTPS](/tiltak/https/) en sikker og god kryptering.
 Men hva med kommunikasjon som skjer utenom nettleser? Her har vi samlet noen

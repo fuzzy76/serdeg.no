@@ -1,8 +1,7 @@
 Title: Aldri bruk åpne nett
 Date: 2015-09-10 18:45
-Author: sjefen
 Slug: aldri-bruk-apne-nett
-Status: published
+Summary: Bruk krypterte trådløsnett
 
 Et åpent trådløsnett av typen som ofte vises uten hengelås-symbol
 innebærer at alle enheter koblet på nettverket kan se hva de andre

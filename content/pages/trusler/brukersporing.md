@@ -1,6 +1,7 @@
 Title: Brukersporing
 Slug: brukersporing
 Image: /images/brukersporing.jpg
+Summary: Sporing og profilering av brukere
 
 Informasjonskapsler er små datafiler nettsider kan lagre på maskinen
 din. De fleste nettsider som tilbyr en eller annen form for innlogging

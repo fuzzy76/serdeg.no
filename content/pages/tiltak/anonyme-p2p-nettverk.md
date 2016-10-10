@@ -1,5 +1,6 @@
 Title: Anonyme p2p nettverk
 Slug: anonyme-p2p-nettverk
+Summary: Dark web, anonyme nettverk
 
 Det finnes flere såkalte anonyme nettverk som lar folk publisere og
 aksessere informasjon helt anonymt og uten sensur. Dette er også kalt

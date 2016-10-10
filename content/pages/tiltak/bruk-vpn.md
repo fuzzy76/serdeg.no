@@ -1,5 +1,6 @@
 Title: VPN
 Slug: bruk-vpn
+Summary: Bruke internett gjennom et VPN (virtuelt privat nettverk).
 
 VPN kan sammenlignes med en hemmelig tunnel (og kalles også ofte for en
 VPN-tunnel), hvor all trafikk går gjennom en kryptert forbindelse mellom

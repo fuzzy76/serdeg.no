@@ -1,5 +1,6 @@
 Title: Navnetjener (DNS)
 Slug: dns
+Summary: Skifte til en DNS-server utenfor myndighetenes kontroll.
 
 Når maskinen din skal hente data fra en server gjøres tilkoblingen mot
 serverens IP-adresse. For at vi mennesker skal slippe å måtte gå rundt
