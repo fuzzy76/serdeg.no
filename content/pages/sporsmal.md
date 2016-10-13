@@ -35,11 +35,8 @@ Dette er en god sak, jeg vil hjelpe!
   i og støtter [foreningene listet på lenkesiden](http://serdeg.no/lenker/#foreninger).
 
 Hvilken personvernpolicy har dere?
-: Den eneste statistikkløsningen vi benytter lagrer ingen identifiserbar
-  informasjon (heller ikke IP-adresser). Vi vil vite minst mulig om deg,
-  alt vi vil er å nå ut til folk. Vil du kontakte oss 100% anonymt
-  anbefaler vi at du benytter [kontaktskjemaet](http://serdeg.no/kontakt/)
-  via [TOR](http://serdeg.no/tiltak/anonyme-p2p-nettverk/).
+: Vi vil vite minst mulig om deg, alt vi vil er å nå ut til folk. Derfor lagrer vi heller ingen cookies i nettleseren
+  din, og sporer ikke våre brukere på noen måte.
 
 Hvem står bak denne siden?
 : Denne siden er laget på privat initiativ av
