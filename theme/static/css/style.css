@@ -78,6 +78,10 @@ body.forside .card-deck .card a.btn {
   color: white;
   text-decoration: none;
   font-weight: bold;
+  -webkit-transition: all 0.3s ease-in;
+  -moz-transition: all 0.3s ease-in;
+  -o-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
 }
 
 body.forside .card-deck .card a.btn:hover {
