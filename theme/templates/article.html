@@ -13,6 +13,9 @@
 <div class="col-sm-8 offset-sm-2">
 <section id="content" class="body">
   <header>
+    {% if article.image %}
+    <img src="/images/{{ article.image }}" alt="{{ article.title }} illustrasjonsbilde" class="img-fluid img-rounded" />
+    {% endif %}
     <h2 class="entry-title">
       {{ article.title }}
       <small class="text-muted">
