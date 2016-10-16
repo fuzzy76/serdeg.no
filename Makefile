@@ -8,14 +8,14 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-FTP_HOST=localhost
-FTP_USER=anonymous
-FTP_TARGET_DIR=/
+FTP_HOST=serdeg.no
+FTP_USER=serdegno
+FTP_TARGET_DIR=/home/serdegno/public_html
 
-SSH_HOST=localhost
+SSH_HOST=serdeg.no
 SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
+SSH_USER=serdegno
+SSH_TARGET_DIR=/home/serdegno/public_html
 
 S3_BUCKET=my_s3_bucket
 
