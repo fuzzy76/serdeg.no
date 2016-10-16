@@ -6,6 +6,10 @@
   {% else %}
     <meta name="description" content="{{article.title|striptags}}" />
   {% endif %}
+  <meta property="og:type" content="article" />
+  {% if article.image %}
+  <meta property="og:image" content="https://serdeg.no/images/{{ article.image }}" />
+  {% endif %}
 {% endblock %}
 {% block bodyclasses %}article {{ article.slug }}{% endblock %}
 {% block content %}

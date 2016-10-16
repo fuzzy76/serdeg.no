@@ -6,6 +6,9 @@
   {% else %}
     <meta name="description" content="{{page.title|striptags}}" />
   {% endif %}
+  {% if page.image %}
+  <meta property="og:image" content="https://serdeg.no{{ page.image }}" />
+  {% endif %}
 {% endblock %}
 {% block bodyclasses %}page {{ page.slug }}{%endblock%}
 {% block content %}
