@@ -8,7 +8,7 @@
     <meta name="description" content="{{page.title|striptags}}" />
   {% endif %}
   {% if page.image %}
-  <meta property="og:image" content="https://serdeg.no{{ page.image }}" />
+  <meta property="og:image" content="{{ SITEURL }}{{ page.image }}" />
   {% endif %}
 {% endblock %}
 {% block content %}
