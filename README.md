@@ -2,7 +2,7 @@
 
 1. [Installer Pelican](http://docs.getpelican.com/en/stable/). Obs:
 	* Den innebygde Python-installasjonen i OS X kan være problematisk. Bruk heller [homebrew](http://brew.sh/).
-	* Dersom du installerer Pelican i et [virtualenv](https://pypi.python.org/pypi/virtualenv), må dette bruke python 3.x for at du skal unngå problemer når du skal kjøre kommandoene nedenfor.
+	* Dersom du installerer Pelican i et [virtualenv](https://pypi.python.org/pypi/virtualenv), må dette bruke python 3.x for at du skal unngå problemer når du skal kjøre kommandoene nedenfor. Pass på å få med pakkene Markdown og typogrify
 2. I en terminal: ```make regenerate```
 3. I en annen terminal: ```make serve```
 4. [http://localhost:8000/](http://localhost:8000/)

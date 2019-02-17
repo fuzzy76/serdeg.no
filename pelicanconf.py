@@ -35,7 +35,15 @@ EXTRA_PATH_METADATA = {
 DEFAULT_DATE = 'fs'
 PLUGIN_PATHS = ['plugins']
 PLUGINS = []
-MD_EXTENSIONS = ["codehilite(css_class=highlight)", "extra", "toc"]
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'markdown.extensions.toc': {},
+    },
+    'output_format': 'html5',
+}
 
 TYPOGRIFY = True
 THEME = 'theme'
