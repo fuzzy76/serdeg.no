@@ -12,7 +12,7 @@ Template: page_raw
         <div class="card-deck">
             <div class="card">
               <a href="{filename}/pages/trusler/trafikkavlytting.md">
-                <img class="card-img-top img-fluid" src="{filename}/images/avlytting.jpg" alt="Avlytting illustrasjon">
+                <img class="card-img-top img-fluid" src="{static}/images/avlytting.jpg" alt="Avlytting illustrasjon">
               </a>
               <div class="card-block">
                 <h4 class="card-title">Avlytting</h4>
@@ -22,7 +22,7 @@ Template: page_raw
             </div>
             <div class="card">
               <a href="{filename}/pages/trusler/brukersporing.md">
-                <img class="card-img-top img-fluid" src="{filename}/images/brukersporing.jpg" alt="Brukersporing illustrasjon">
+                <img class="card-img-top img-fluid" src="{static}/images/brukersporing.jpg" alt="Brukersporing illustrasjon">
               </a>
               <div class="card-block">
                 <h4 class="card-title">Brukersporing</h4>
@@ -32,7 +32,7 @@ Template: page_raw
             </div>
             <div class="card">
               <a href="{filename}/pages/trusler/blokkering-av-nettsteder.md">
-                <img class="card-img-top img-fluid" src="{filename}/images/blokkering.jpg" alt="Blokkering illustrasjon">
+                <img class="card-img-top img-fluid" src="{static}/images/blokkering.jpg" alt="Blokkering illustrasjon">
               </a>
               <div class="card-block">
                 <h4 class="card-title">Blokkering av nettsteder</h4>

@@ -7,3 +7,4 @@ lib
 .Python
 pip-selfcheck.json
 output
+deploy.sh
