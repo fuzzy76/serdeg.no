@@ -6,6 +6,7 @@
   {% else %}
     <meta name="description" content="{{page.title|striptags}}" />
   {% endif %}
+  <meta property="og:title" content="{{ page.title|striptags }}" />
   {% if page.image %}
   <meta property="og:image" content="{{ SITEURL }}{{ page.image }}" />
   {% endif %}
